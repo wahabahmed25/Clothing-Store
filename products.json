@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Men's Black Suit",
+        "price": 79.99,
+        "description": "A sleek black suit perfect for formal occasions or professional meetings.",
+        "image": "/cloths/black.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Men's Blue Suit",
+        "price": 74.99,
+        "description": "A modern blue suit with a tailored fit, ideal for both business and evening events.",
+        "image": "/cloths/bluesuit.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Men's Gray Suit",
+        "price": 84.99,
+        "description": "A classic gray suit crafted from premium fabric for a polished look.",
+        "image": "/cloths/gray.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Women's Black Evening Dress",
+        "price": 109.99,
+        "description": "An elegant black dress designed for formal events and sophisticated evenings.",
+        "image": "/cloths/blackdress.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Women's Green Silk Dress",
+        "price": 199.99,
+        "description": "A luxurious green silk dress with a flowing design for special occasions.",
+        "image": "/cloths/greensilkdress.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Women's Maroon Cocktail Dress",
+        "price": 129.99,
+        "description": "A striking maroon dress with intricate detailing, perfect for parties and gatherings.",
+        "image": "/cloths/maroondress.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Women's Pink Summer Dress",
+        "price": 89.99,
+        "description": "A vibrant pink dress that offers comfort and style for casual outings.",
+        "image": "/cloths/pinkdress.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Women's Red Party Dress",
+        "price": 89.99,
+        "description": "A bold red dress designed to make a statement at any celebration.",
+        "image": "/cloths/reddress.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Women's Red Business Suit",
+        "price": 89.99,
+        "description": "A chic red suit for women, perfect for professional and semi-formal settings.",
+        "image": "/cloths/redsuitwomen.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Women's White Evening Dress",
+        "price": 99.99,
+        "description": "A stunning white dress that exudes elegance and charm for evening events.",
+        "image": "/cloths/whitedress.webp"
+    }
+]
